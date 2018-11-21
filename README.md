@@ -1,1 +1,1 @@
-## Privacy And Policy
+## Gizlilik Sözleşmesi
