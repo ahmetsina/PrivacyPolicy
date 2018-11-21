@@ -65,7 +65,8 @@ Hizmet kapsamında işlenen verilerin tutulduğu veri merkezileri değişik böl
 
 **5. Kişisel Verileri korumak için hangi güvenlik önlemleri uygulanmaktadır?**
 
-Verilerinizin güvenliği ve diğer Kullanıcıların güvenliği bizim için çok önemlidir. Kişisel Verilerinizi kayıp ya da herhangi bir yasadışı işleme karşı korumak için teknik ve organizasyonel önlemler aldık. Aşağıdaki tedbirleri uyguladık: sunucularımızı güvenlik duvarları, SSL bağlantıları ve hassas verilerin şifrelenmesi yoluyla koruma. Bu liste ayrıntılı değildir. 
+Verilerinizin güvenliği ve diğer Kullanıcıların güvenliği bizim için çok önemlidir. Kişisel Verilerinizi kayıp ya da herhangi bir yasadışı işleme karşı korumak için teknik ve organizasyonel önlemler aldık. Aşağıdaki tedbirleri uyguladık: sunucularımızı güvenlik duvarları, SSL bağlantıları ve hassas verilerin şifrelenmesi yoluyla koruma. Bu liste ayrıntılı değildir.
+
 **6. Üçüncü şahıslarla ilgili sorumluluk sınırları**
 
 Hizmetimiz üçüncü taraflar tarafından sunulan hizmetler ve ürünler ve / veya ortakların, reklamverenlerin ve diğer üçüncü tarafların web sitelerine veya hizmetlerine köprüler içerebilir.
